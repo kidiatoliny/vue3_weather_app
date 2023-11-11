@@ -7,7 +7,7 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "uid": "^2.0.0",
     "vue": "^3.2.37",
     "vue-router": "^4.0.16"
